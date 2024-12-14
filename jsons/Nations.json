@@ -1,1 +1,21 @@
-
+[ 
+	{
+		"name": "Siberian Black League",
+		"leaderName": "Dimitry Yazov",
+		"adjective": ["Russian","Siberian"],
+		"startIntroPart1": "Hello",
+		"preferredVictoryType": "Domination",
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"neutralHello": "",
+		"hateHello": "",
+		"tradeRequest": "Wanna trade?",
+		"outerColor": [46,46,46],
+		"innerColor": [167,167,167],
+		"uniqueName": "",
+		"uniques": ["[-30]% maintenance cost units [in all cities]"],
+		"cities": ["Omsk"]
+	}
+]
+ 
