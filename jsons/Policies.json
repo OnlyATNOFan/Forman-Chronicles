@@ -1,0 +1,60 @@
+[
+    {
+        "name": "Asimilation",
+        "era": "Renaissance era",
+        "priorities": {
+            "Neutral": 15,
+            "Cultural": 45,
+            "Diplomatic": 10,
+            "Domination": 110,
+            "Scientific": 35
+        },
+        "uniques": [
+            "[+2 Culture] [in all cities]",
+            "[+2 Happiness, +3 Culture] per [5] population [in capital]",
+            "[-1 Happiness, +1 Culture] per [10] population [in all cities]"
+        ],
+        "policies": [
+            {
+                "name": "Re-education System",
+                "uniques": [
+                    "[50]% Unhappiness from [Population] [in annexed cities]",
+                    "[+3 Culture] from all [Public School] buildings"
+                ],
+                "row": 1,
+                "column": 3
+            },
+            {
+                "name": "Loyal Society",
+                "uniques": [
+                    "Earn [40]% of killed [Barbarian] unit's [Strength] as [Culture]",
+                    "[+15]% Production when constructing [Military] units [in this city]",
+                    "[-10]% enemy spy effectiveness [in your cities]"
+                ],
+                "requires": ["Re-education System"],
+                "row": 2,
+                "column": 4
+            },
+            {
+                "name": "Citizenship Rights",
+                "uniques": [
+                    "[+2 Happiness] [in all cities]",
+                    "Quantity of strategic resources produced by the empire +[100]%"
+                ],
+                "requires": ["Re-education System"],
+                "row": 2,
+                "column": 2
+            },
+            {
+                "name": "Asimilation Complete",
+                "uniques": [
+                    "[+25]% growth [in all cities]",
+                    "[+10]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>",
+                    "[+2]% Production when constructing [All] buildings [in all cities]",
+                    "[+4 Gold, +1 Happiness] per [15] population [in all cities]",
+                    "[-50]% maintenance costs <for [All] units>"
+                ]
+            }
+        ]
+    }
+]

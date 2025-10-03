@@ -1,0 +1,150 @@
+[
+	//Corvus
+	{
+		"name": "Khorinist Musketman",
+		"uniqueTo": "Corvus Confederation",
+		"replaces": "Musketman",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 28,
+		"cost": 150,
+		"requiredTech": "Gunpowder",
+		"upgradesTo": "Khorinist Rifleman",
+		"obsoleteTech": "Rifling",
+		"uniques": ["Infantry"],
+		"attackSound": "Volley_Fire",
+		"promotions": ["Khorinist Ability"]
+	},
+	{
+		"name": "Khorinist Rifleman",
+		"uniqueTo": "Corvus Confederation",
+		"replaces": "Rifleman",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 34,
+		"cost": 225,
+		"requiredTech": "Rifling",
+		"upgradesTo": "Khorinist Infantry",
+		"obsoleteTech": "Replaceable Parts",
+		"uniques": ["Infantry"],
+		"attackSound": "Volley_Fire",
+		"promotions": ["Khorinist Ability"]
+	},
+	{
+		"name": "Khorinist Infantry",
+		"uniqueTo": "Corvus Confederation",
+		"replaces": "Great War Infantry",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 50,
+		"cost": 300,
+		"requiredTech": "Replaceable Parts",
+		"upgradesTo": "Khorinist Infantry II",
+		"obsoleteTech": "Pharmaceuticals",
+		"uniques": ["Infantry"],
+		"attackSound": "shot",
+		"promotions": ["Khorinist Ability","Fueled by Hate"]
+	},
+	{
+		"name": "Khorinist Infantry II",
+		"uniqueTo": "Corvus Confederation",
+		"replaces": "Infantry",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 70,
+		"cost": 375,
+		"requiredTech": "Pharmaceuticals",
+		"upgradesTo": "Modern Infantry",
+		"obsoleteTech": "Telecommunications",
+		"uniques": ["Infantry"],
+		"attackSound": "shot",
+		"promotions": ["Khorinist Ability","Fueled by Hate"]
+	},
+	
+	//Cetus
+	{
+		"name": "Exercitus Maris",
+		"uniqueTo": "Empire of Cetus",
+		"replaces": "Naval Infantry",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 50,
+		"cost": 225,
+		"requiredTech": "Replaceable Parts",
+		"upgradesTo": "Marine",
+		"obsoleteTech": "Pharmaceuticals",
+		"uniques": ["Defense bonus when embarked", "[+1] Movement <when [Embarked]>"],
+		"attackSound": "shot",
+		"promotions": ["Defender I","Amphibious"]
+	},
+	
+	//Antares
+	{
+		"name": "Skirmisher Kompanies",
+		"uniqueTo": "Antares Imperium",
+		"replaces": "Ranger",
+		"unitType": "Recon",
+		"strength": 30,
+		"rangedStrength": 35,
+		"range": 1,
+		"cost": 190,
+		"uniques": ["Can see over obstacles", "[+1] Sight <for [Embarked] units>", "[+1] Sight <when [Embarked]>", "[+1] Movement <when [Embarked]>", "Can move after attacking", "Never appears as a Barbarian unit"],
+		"upgradesTo": "Spec Ops",
+		"obsoleteTech": "Radar",
+		"requiredTech": "Rifling",
+		"attackSound": "shot"
+	},
+	{
+		"name": "Hantu",
+		"uniqueTo": "Antares Imperium",
+		"replaces": "Jet Fighter",
+		"unitType": "Fighter",
+		"movement": 2,
+		"strength": 90,
+		"rangedStrength": 90,
+		"range": 15,
+		"interceptRange": 15,
+		"cost": 425,
+		"requiredTech": "Lasers",
+		"requiredResource": "Oil",
+		"upgradesTo": "Modern Jet",
+		"obsoleteTech": "Globalization",
+		"uniques": ["[150]% chance to intercept air attacks","[+200]% Strength <vs [Bomber] units>","[+175]% Strength <vs [Atomic Bomber] units>","[+200]% Strength <vs [Helicopter] units>"],
+		"attackSound": "jetgun"
+	},
+	
+	//Aquila
+	{
+		"name": "Civil Guard",
+		"uniqueTo": "Kingdom of Aquila",
+		"replaces": "Draftee",
+		"unitType": "Militia",
+		"movement": 3,
+		"strength": 40,
+		"cost": 70,
+		"uniques": ["May upgrade to [Great War Infantry] through ruins-like effects", "Never appears as a Barbarian unit", "[+100]% Strength <vs [Barbarian] units> <when fighting in [Friendly Land] tiles>", "[-25]% Strength <when fighting in [Foreign Land] tiles>", "[-75]% maintenance costs", "[-2] Movement <in [Foreign Land] tiles>"],
+		"upgradesTo": "Conscripts",
+		"obsoleteTech": "Pharmaceuticals",
+		"requiredTech": "Radio",
+		"attackSound": "shot",
+		"promotions": ["Defender I"]
+	},
+	
+	//Vega
+	{
+		"name": "Cavalry Tank",
+		"uniqueTo": "Vega Dominion",
+		"replaces": "Landship",
+		"unitType": "Armored",
+		"movement": 4,
+		"strength": 60,
+		"cost": 350,
+		"uniques": ["Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit"],
+		"upgradesTo": "Tank",
+		"obsoleteTech": "Combined Arms",
+		"requiredResource": "Oil",
+		"requiredTech": "Combustion",
+		"attackSound": "shot",
+		"promotions": ["Terror"]
+	}
+]

@@ -1,0 +1,63 @@
+[
+        {
+                "name": "Khorinist Ability",
+                "uniques": ["Unit will heal every turn, even if it performs an action",
+                "[+5]% Strength <vs cities> <when attacking>"]
+        },
+        {
+                "name": "Pascation",
+                "uniques": ["Earn [20]% of killed [Military] unit's [Strength] as [Culture]",
+                "Heals [5] damage if it kills a unit",
+                "[+10]% Strength when stacked with [Wounded]"]
+        },
+        {
+                "name": "Blessing of Erasmia",
+                "uniques": ["Earn [25]% of killed [Military] unit's [Strength] as [Culture]",
+                "Heals [10] damage if it kills a unit",
+                "[+170]% Strength <with [5]% chance>",
+                "[+30]% Strength <with [50]% chance>"]
+        },
+        {
+                "name": "Shokktroopers",
+                "uniques": [
+                "[+15]% Strength <vs cities> <when attacking>",
+                "[20]% Strength <vs [Military] units> <when attacking>"]
+        },
+        {
+                "name": "Light Weight",
+                "uniques": [
+                "Only available <with [Iron]>",
+                "Consumes [1] [Iron]",
+                "[+15]% Strength <vs cities>",
+                "[+20]% Strength <vs [Military] units>"],
+                "unitTypes": ["Sword","Gunpowder","Archery","Ranged Gunpowder","Siege","Lord Melee","Militia"],
+                "column": 44,
+                "row": 1
+        },
+        {
+                "name": "Medium Weight",
+                "prerequisites": ["Light Weight"],
+                "uniques": [
+                "Only available <with [Iron]>",
+                "[-1] Movement",
+                "Consumes [1] [Iron]",
+                "[+10]% Strength <vs cities>",
+                "[+15]% Strength <vs [Military] units>"],
+                "unitTypes": ["Sword","Gunpowder","Archery","Ranged Gunpowder","Siege","Lord Melee","Militia"],
+                "column": 44,
+                "row": 2
+        },
+        {
+                "name": "Heavy Weight",
+                "prerequisites": ["Medium Weight"],
+                "uniques": [
+                "Only available <with [Iron]>",
+                "[-1] Movement",
+                "Consumes [1] [Iron]",
+                "[+10]% Strength <vs cities>",
+                "[+15]% Strength <vs [Military] units>"],
+                "unitTypes": ["Sword","Gunpowder","Archery","Ranged Gunpowder","Siege","Lord Melee","Militia"],
+                "column": 44,
+                "row": 3
+        }
+]

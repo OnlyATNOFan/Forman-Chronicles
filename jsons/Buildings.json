@@ -1,0 +1,72 @@
+[
+        //Antares
+        {
+                "name": "Union Of Antarean Youth School",
+                "replaces": "Public School",
+                "uniqueTo": "Antares Imperium",
+                "science": 3,
+                "specialistSlots": {"Scientist": 1},
+                "requiredBuilding": "University",
+                "cost": 300,
+                "faith": 1,
+                "culture": 3,
+                "happiness": 1,
+                "cityStrength": 7,
+                "cityHealth": 30,
+                "uniques": ["Destroyed when the city is captured","[-15]% enemy spy effectiveness [in this city]","[+1 Science] per [2] population [in this city]"],
+                "requiredTech": "Scientific Theory"
+        },
+        {
+                "name": "Kanar Army Akademy",
+                "isWonder": true,
+                "uniqueTo": "Antares Imperium",
+                "uniques": ["New [Gunpowder] units start with [20] XP [in this city]","All newly-trained [Gunpowder] units [in this city] receive the [Shokktroopers] promotion","[+10]% Production when constructing [Military] units [in this city]"],
+                "requiredTech": "Military Science"
+        },
+        {
+                "name": "Lesath Military Akademy",
+                "isWonder": true,
+                "uniqueTo": "Antares Imperium",
+                "uniques": ["All newly-trained [Siege] units [in this city] receive the [Barrage I] promotion","All newly-trained [Siege] units [in this city] receive the [Accuracy I] promotion","All newly-trained [Siege] units [in this city] receive the [Indirect Fire] promotion","All newly-trained [Siege] units [in this city] receive the [Extended Range] promotion","All newly-trained [Siege] units [in this city] receive the [Logistics] promotion","[+10]% Production when constructing [Military] units [in this city]"],
+                "requiredTech": "Physics"
+        },
+        
+        //Aquila
+        {
+                "name": "Altair",
+                "isWonder": true,
+                "uniqueTo": "Kingdom of Aquila",
+                "uniques": ["New [Military] units start with [30] XP [in this city]","All newly-trained [Militia] units [in this city] receive the [Defender I] promotion","[+15]% Production when constructing [Military] units [in this city]"],
+                "requiredTech": "Rifling"
+        },
+        {
+                "name": "Erasmia Statue",
+                "replaces": "Monument",
+                "uniqueTo": "Kingdom of Aquila",
+                "cost": 40,
+                "culture": 3,
+                "happiness": 1,
+                "cityHealth": 30,
+                "uniques": ["New [Military] units start with [5] XP [in this city]","Destroyed when the city is captured","[-5]% enemy spy effectiveness [in this city]"]
+        },
+        {
+                "name": "McRoland's Restaurant",
+                "replaces": "Restaurant",
+                "uniqueTo": "Kingdom of Aquila",
+                "maintenance": 3,
+                "gold": 4,
+                "happiness": 3,
+                "culture": 4,
+                "food": 7,
+
+                "requiredTech": "Refrigeration",
+                "requiredBuilding": "Granary",
+
+                "uniques": [
+                "[+1 Happiness] per [8] population [in all cities]",
+                "Destroyed when the city is captured"
+                ],
+
+                "cost": 200
+        },
+]

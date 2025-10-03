@@ -1,0 +1,83 @@
+[
+        //Corvus
+        {
+        "name": "Leyend of Kreofaia",
+        "type": "Pantheon",
+        "uniques": [
+                        "Only available <for [Corvus] Civilizations>",
+                        "[+1 Food, +2 Happiness, +4 Faith, +8 Culture] per [10] population [in all cities]",
+                        "[+2 Food, +3 Happiness, +6 Faith, +10 Culture] per [8] population [in capital]"
+        ]
+        },
+        {
+                "name": "Pascation",
+                "type": "Founder",
+                "uniques": [
+                        "Only available <for [Corvus] Civilizations>",
+                        "[Infantry] units gain the [Pascation] promotion"
+                ]
+        },
+        {
+                "name": "Sacred Ravens",
+                "type": "Follower",
+                "uniques": [
+                        "Only available <for [Corvus] Civilizations>",
+                ]
+        },
+        {
+                "name": "Sacrifice",
+                "type": "Follower",
+                "uniques": [
+                        "Only available <for [Corvus] Civilizations>",
+                ]
+        },
+        {
+                "name": "Cult of the Angel Saint Ephemera",
+                "type": "Enhancer",
+                "uniques": [
+                        "Only available <for [Corvus] Civilizations>",
+                ]
+        },
+        //Aquila
+        {
+        "name": "Eagle of Aquila",
+        "type": "Pantheon",
+        "uniques": [
+                        "Only available <for [Aquila] Civilizations>",
+                        "[+1 Food, +1 Gold] from every [River]",
+                        "[+1 Food, +1 Production] from every [Forest]",
+                        "[+1 Food] from every [Grassland]",
+                        "[+1 Food] from every [Plains]",
+                        "[Infantry] units gain the [Forest Specialisation I] promotion"
+        ]
+        },
+        {
+                "name": "Cult of the Angel Erasmia",
+                "type": "Founder",
+                "uniques": [
+                        "Only available <for [Aquila] Civilizations>",
+                        "[Military] units gain the [Blessing of Erasmia] promotion"
+                ]
+        },
+        {
+                "name": "Sacrifice to Aquila",
+                "type": "Follower",
+                "uniques": [
+                        "Only available <for [Aquila] Civilizations>",
+                ]
+        },
+        {
+                "name": "Rain Day",
+                "type": "Follower",
+                "uniques": [
+                        "Only available <for [Aquila] Civilizations>",
+                ]
+        },
+        {
+                "name": "Cult of the Angel Saint Ephemera",
+                "type": "Enhancer",
+                "uniques": [
+                        "Only available <for [Aquila] Civilizations>",
+                ]
+        },
+]
