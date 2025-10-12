@@ -3,56 +3,56 @@ size: 400, 200
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-NationIcons/Antares Icon
+NationIcons/Antares Imperium
   rotate: false
   xy: 0, 0
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Aquila Icon
+NationIcons/Kingdom of Aquila
   rotate: false
   xy: 0, 100
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Cetus Icon
+NationIcons/Empire of Cetus
   rotate: false
   xy: 100, 0
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Columba Icon
+NationIcons/United Columban Territories
   rotate: false
   xy: 100, 100
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Corvus Icon
+NationIcons/Corvus Confederation
   rotate: false
   xy: 200, 0
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Grusa Icon
+NationIcons/Grusa Kingdom
   rotate: false
   xy: 200, 100
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Riaa Icon
+NationIcons/Riaa
   rotate: false
   xy: 300, 0
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Vega Icon
+NationIcons/Vega Dominion
   rotate: false
   xy: 300, 100
   size: 100, 100
