@@ -38,6 +38,39 @@
                         "Only available <for [Corvus] Civilizations>",
                 ]
         },
+        //Antares
+        {
+                "name": "Iron Discipline",
+                "type": "Follower",
+                "uniques": [
+                        "[+1 Happiness, +1 Production] from all [Armory] buildings",
+                        "[+1 Happiness, +1 Production] from all [Military Base] buildings",
+                        "[+1 Happiness, +1 Production] from all [Barracks] buildings",
+                        "[+100]% Production when constructing [Military Base] buildings [in this city]",
+                        "[+100]% Production when constructing [Armory] buildings [in this city]",
+                        "[+100]% Production when constructing [Barracks] buildings [in this city]"
+                ]
+        },
+        {
+                "name": "Sacrifice for the Imperium",
+                "type": "Follower",
+                "uniques": [
+                        "[-20]% Unhappiness from [Population] [in annexed cities]",
+                        "[+2 Culture, +1 Happiness] from all [Faith] buildings"
+                ]
+        },
+        {
+                "name": "Forges of Divine Grace",
+                "type": "Follower",
+                "uniques": [
+                        "[+15]% Production when constructing [Military] units [in this city]",
+                        "Provides [+5] [Iron]",
+                        "Provides [+5] [Coal]",
+                        "Provides [+5] [Aluminum]",
+                        "Provides [+5] [Uranium]",
+                        "Provides [+5] [Horses]"
+                ]
+        },
         //Aquila
         {
         "name": "Eagle of Aquila",
