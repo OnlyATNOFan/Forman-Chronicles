@@ -26,6 +26,7 @@
 	{
 		"name": "Light Weight",
 		"uniques": [
+		"This Promotion is free",
 		"Only available <with [Iron]>",
 		"Consumes [1] [Iron]",
 		"[+15]% Strength <vs cities>",
@@ -38,6 +39,7 @@
 		"name": "Medium Weight",
 		"prerequisites": ["Light Weight"],
 		"uniques": [
+		"This Promotion is free",
 		"Only available <with [Iron]>",
 		"[-1] Movement",
 		"Consumes [1] [Iron]",
@@ -51,6 +53,7 @@
 		"name": "Heavy Weight",
 		"prerequisites": ["Medium Weight"],
 		"uniques": [
+		"This Promotion is free",
 		"Only available <with [Iron]>",
 		"[-1] Movement",
 		"Consumes [1] [Iron]",
