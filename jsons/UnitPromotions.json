@@ -31,7 +31,7 @@
 		"Consumes [1] [Iron]",
 		"[+15]% Strength <vs cities>",
 		"[+20]% Strength <vs [Military] units>"],
-		"unitTypes": ["Sword","Gunpowder","Archery","Ranged Gunpowder","Siege","Lord Melee","Militia"],
+		"unitTypes": ["Sword","Gunpowder","Archery","Ranged Gunpowder","Siege","Militia"],
 		"column": 44,
 		"row": 1
 	},
@@ -45,7 +45,7 @@
 		"Consumes [1] [Iron]",
 		"[+10]% Strength <vs cities>",
 		"[+15]% Strength <vs [Military] units>"],
-		"unitTypes": ["Sword","Gunpowder","Archery","Ranged Gunpowder","Siege","Lord Melee","Militia"],
+		"unitTypes": ["Sword","Gunpowder","Archery","Ranged Gunpowder","Siege","Militia"],
 		"column": 44,
 		"row": 2
 	},
@@ -59,7 +59,7 @@
 		"Consumes [1] [Iron]",
 		"[+10]% Strength <vs cities>",
 		"[+15]% Strength <vs [Military] units>"],
-		"unitTypes": ["Sword","Gunpowder","Archery","Ranged Gunpowder","Siege","Lord Melee","Militia"],
+		"unitTypes": ["Sword","Gunpowder","Archery","Ranged Gunpowder","Siege","Militia"],
 		"column": 44,
 		"row": 3
 	},
