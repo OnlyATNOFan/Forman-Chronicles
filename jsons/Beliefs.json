@@ -64,11 +64,11 @@
                 "type": "Follower",
                 "uniques": [
                         "[+15]% Production when constructing [Military] units [in this city]",
-                        "Provides [+5] [Iron]",
-                        "Provides [+5] [Coal]",
-                        "Provides [+5] [Aluminum]",
-                        "Provides [+5] [Uranium]",
-                        "Provides [+5] [Horses]"
+                        "Provides [+2] [Iron]",
+                        "Provides [+1] [Coal]",
+                        "Provides [+1] [Aluminum]",
+                        "Provides [+1] [Uranium]",
+                        "Provides [+3] [Horses]"
                 ]
         },
         //Aquila
