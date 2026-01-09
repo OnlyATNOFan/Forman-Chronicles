@@ -56,8 +56,8 @@
 		"outerColor": [244,162,97],
 		"innerColor": [202,52,51],
 		"style": "Southern",
-		"uniqueName": "Royal DiKtatorship",
-		"uniques": ["[+3]% Production [in all cities]","Starts with [Tradition] adopted","Starts whit [Order] adopted","Starts whit [Autocracy] adopted","[+5]% Production when constructing [All] units [in all cities]"],
+		"uniqueName": "Royal Diktatorship",
+		"uniques": ["Skorpius","[+3]% Production [in all cities]","Starts with [Tradition] adopted","Starts whit [Order] adopted","Starts whit [Autocracy] adopted","[+5]% Production when constructing [All] units [in all cities]"],
 		"cities": ["Ananteria","Aeminiva","Kharon","Lesath","Kanar","Leto","Novis Vina","Irieby","Ophalo","Talos","Peben","Gladita","Glarea","Drausas","Thermos","Villiama","Akrab","Diuventus","Graffias","Iurida","Northhead","Devon","Luxa","Bousa","Burland","Iurus","Fort Hasta","Osedon","Horia","Novus Septia","Esrose","Noperau","Prollis","Durum Soli","Quinlau","Equara","Vetus Iter","Maran","Soren","Nulinia","Farport","Noraton","Vanesia","Felokka","Hebesidus","Hannar","Whitekrest","Sinus Akuti","Sellor","Neptar","Keri","Buthida","Akulea","Kaptar","Occida","Prokula"]
 	},
 	{
