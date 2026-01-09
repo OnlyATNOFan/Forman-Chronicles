@@ -43,7 +43,7 @@
                 "name": "Iron Discipline",
                 "type": "Follower",
                 "uniques": [
-                        "Only available <for [Aquila] Civilizations>",
+                        "Only available <for [Skorpius] Civilizations>",
                         "[+1 Happiness, +1 Production] from all [Armory] buildings",
                         "[+1 Happiness, +1 Production] from all [Military Base] buildings",
                         "[+1 Happiness, +1 Production] from all [Barracks] buildings",
@@ -56,7 +56,7 @@
                 "name": "Sacrifice for the Imperium",
                 "type": "Follower",
                 "uniques": [
-                        "Only available <for [Aquila] Civilizations>",
+                        "Only available <for [Skorpius] Civilizations>",
                         "[-20]% Unhappiness from [Population] [in annexed cities]",
                         "[+2 Culture, +1 Happiness] from all [Faith] buildings"
                 ]
@@ -65,7 +65,7 @@
                 "name": "Forges of Divine Grace",
                 "type": "Follower",
                 "uniques": [
-                        "Only available <for [Aquila] Civilizations>",
+                        "Only available <for [Skorpius] Civilizations>",
                         "[+15]% Production when constructing [Military] units [in this city]",
                         "Provides [+2] [Iron]",
                         "Provides [+1] [Coal]",
