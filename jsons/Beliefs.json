@@ -56,6 +56,20 @@
         },
         //Antares
         {
+        "name": "",
+        "type": "Pantheon",
+        "uniques": [
+                        "Only available <for [Skorpius] Civilizations>",
+        ]
+        },
+        {
+                "name": "",
+                "type": "Founder",
+                "uniques": [
+                        "Only available <for [Skorpius] Civilizations>",
+                ]
+        },
+        {
                 "name": "Iron Discipline",
                 "type": "Follower",
                 "uniques": [
@@ -88,6 +102,13 @@
                         "Provides [+1] [Aluminum]",
                         "Provides [+1] [Uranium]",
                         "Provides [+3] [Horses]"
+                ]
+        },
+        {
+                "name": "",
+                "type": "Enhancer",
+                "uniques": [
+                        "Only available <for [Skorpius] Civilizations>",
                 ]
         },
         //Aquila
