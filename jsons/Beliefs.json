@@ -22,13 +22,17 @@
                 "type": "Follower",
                 "uniques": [
                         "Only available <for [Corvus] Civilizations>",
+                        "Earn [+10]% of killed [Military] unit's [Cost] as [Culture]",
+                        "[+2 Culture, +2 Faith] from all [Cemetery] buildings"
                 ]
         },
         {
-                "name": "Sacrifice",
+                "name": "The Call of the Carrion",
                 "type": "Follower",
                 "uniques": [
                         "Only available <for [Corvus] Civilizations>",
+                        "[-50]% maintenance costs",
+                        "[+2 Faith, +2 Gold] from all [Monument] buildings
                 ]
         },
         {
