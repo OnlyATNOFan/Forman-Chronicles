@@ -32,14 +32,26 @@
                 "uniques": [
                         "Only available <for [Corvus] Civilizations>",
                         "[-50]% maintenance costs",
-                        "[+2 Faith, +2 Gold] from all [Monument] buildings
+                        "[+2 Faith, +2 Gold] from all [Monument] buildings"
                 ]
         },
         {
-                "name": "Cult of the Angel Saint Ephemera",
+                "name": "Shadow of the Wing",
+                "type": "Follower",
+                "uniques": [
+                        "Only available <for [Corvus] Civilizations>",
+                        "[+2 Faith, +2 Culture] from [Barracks] buildings",
+                        "[+15]% Production when constructing [Military] units [in this city]"
+                ]
+        },
+        {
+                "name": "Death’s Divine Mandate",
                 "type": "Enhancer",
                 "uniques": [
                         "Only available <for [Corvus] Civilizations>",
+                        "[+30]% Strength <vs [All]>",
+                        "Earn [+100]% of killed [Military] unit's [Strength] as [Faith]",
+                        "[+30]% Spread Religion Strength"
                 ]
         },
         //Antares
