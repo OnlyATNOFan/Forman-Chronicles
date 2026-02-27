@@ -152,7 +152,8 @@
                         "[+2 Faith, +2 Culture] from [Pasture] tiles [in this city]",
                         "[+2 Faith, +2 Culture] from [Terrace farm] tiles [in this city]",
                         "[+2 Faith, +2 Culture] from [Farm] tiles [in this city]",
-                "May buy [Aquilan Altar] buildings for [75] [Faith] [in cities following this religion]"
+,
+                        "May buy [Aquilan Altar] buildings for [75] [Faith] [in cities following this religion]"
                 ]
         },
         {
