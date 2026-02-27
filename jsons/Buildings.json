@@ -4,89 +4,101 @@
                 "name": "Corvun Sanctuary",
                 "faith": 2,
                 "culture": 3,
-                "food": 1
+                "food": 1,
+                "uniques": ["Unbuildable"]
         },
         {
                 "name": "Cetan Temple",
                 "faith": 2,
                 "food": 1,
-                "culture": 2
+                "culture": 2,
+                "uniques": ["Unbuildable"]
         },
         {
                 "name": "Libran Ruins",
                 "Faith": 2,
-                "happiness": 1
+                "happiness": 1,
+                "uniques": ["Unbuildable"]
         },
         {
                 "name": "Grus Sanctuary",
                 "Faith": 2,
                 "food": 3,
-                "happiness": 1
+                "happiness": 1,
+                "uniques": ["Unbuildable"]
         },
         {
                 "name": "Lyra Cathedral",
                 "Faith": 1,
-                "culture": 3
+                "culture": 3,
+                "uniques": ["Unbuildable"]
         },
         {
                 "name": "Skorpius Temple",
                 "Faith": 2,
                 "culture": 2,
-                "cityHealth": 10
+                "cityHealth": 10,
+                "uniques": ["Unbuildable"]
         },
         {
                 "name": "Norman Library",
                 "Faith": 1,
                 "culture": 3,
-                "science": 2
+                "science": 2,
+                "uniques": ["Unbuildable"]
         },
         {
                 "name": "Aquilan Altar",
                 "Faith": 2,
                 "culture": 2,
-                "uniques": ["New [Military] units start with [10] XP [in this city]"]
+                "uniques": ["Unbuildable", "New [Military] units start with [10] XP [in this city]"]
         },
         {
                 "name": "Lupus Sanctuary",
                 "Faith": 2,
                 "culture": 3,
-                "production": 1
+                "production": 1,
+                "uniques": ["Unbuildable"]
         },
         {
                 "name": "Ara Altar",
                 "Faith": 5,
-                "culture": 2
+                "culture": 2,
+                "uniques": ["Unbuildable"]
         },
         {
                 "name": "Columban Temple",
                 "Faith": 3,
                 "culture": 2,
-                "uniques": ["[+1 Happiness] per [10] population [in this city]"]
+                "uniques": ["Unbuildable", "[+1 Happiness] per [10] population [in this city]"]
         },
         {
                 "name": "Centauri Gardens",
                 "Faith": 3,
                 "culture": 2,
                 "food": 5,
-                "happiness": 2
+                "happiness": 2,
+                "uniques": ["Unbuildable"]
         },
         {
                 "name": "Tucana Temple",
                 "Faith": 2,
                 "culture": 3,
-                "food": 1
+                "food": 1,
+                "uniques": ["Unbuildable"]
         },
         {
                 "name": "Aurigan Church",
                 "Faith": 1,
                 "culture": 3,
-                "production": 1
+                "production": 1,
+                "uniques": ["Unbuildable"]
         },
         {
                 "name": "Orion Cathedral",
                 "Faith": 3,
                 "culture": 3,
-                "uniques": ["[+15]% Production when constructing [Military] units [in this city]"]
+                "uniques": ["Unbuildable", "[+15]% Production when constructing [Military] units [in this city]"]
         },
         //Antares
         {
