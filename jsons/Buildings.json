@@ -1,5 +1,93 @@
 [
         //Shrines
+        {
+                "name": "Corvun Sanctuary",
+                "faith": 2,
+                "culture": 3,
+                "food": 1
+        },
+        {
+                "name": "Cetan Temple",
+                "faith": 2,
+                "food": 1,
+                "culture: 2
+        },
+        {
+                "name": "Libran Ruins",
+                "Faith": 2,
+                "happiness": 1
+        },
+        {
+                "name": "Grus Sanctuary",
+                "Faith": 2,
+                "food": 3,
+                "happiness": 1
+        },
+        {
+                "name": "Lyra Cathedral",
+                "Faith": 1,
+                "culture": 3
+        },
+        {
+                "name": "Skorpius Temple",
+                "Faith": 2,
+                "culture": 2,
+                "cityHealth": 10
+        },
+        {
+                "name": "Norman Library",
+                "Faith": 1,
+                "culture": 3,
+                "science": 2
+        },
+        {
+                "name": "Aquilan Altar",
+                "Faith": 2,
+                "culture": 2,
+                "uniques": ["New [Military] units start with [10] XP [in this city]"]
+        },
+        {
+                "name": "Lupus Sanctuary",
+                "Faith": 2,
+                "culture": 3,
+                "production": 1
+        },
+        {
+                "name": "Ara Altar",
+                "Faith": 5,
+                "culture": 2
+        },
+        {
+                "name": "Columban Temple",
+                "Faith": 3,
+                "culture": 2,
+                "uniques": ["[+1 Happiness] per [10] population [in this city]"]
+        },
+        {
+                "name": "Centauri Gardens",
+                "Faith": 3,
+                "culture": 2,
+                "food": 5,
+                "happiness": 2
+        },
+        {
+                "name": "Tucana Temple",
+                "Faith": 2,
+                "culture": 3,
+                "food": 1
+        },
+        {
+                "name": "Aurigan Church",
+                "Faith": 1,
+                "culture": 3,
+                "production": 1
+        },
+        {
+                "name": "Orion Cathedral",
+                "Faith": 3,
+                "culture": 3,
+                "uniques": ["[+15]% Production when constructing [Military] units [in this city]"]
+        },
         //Antares
         {
                 "name": "Union Of Antarean Youth School",
