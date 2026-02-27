@@ -23,7 +23,8 @@
                 "uniques": [
                         "Only available <for [Corvus] Civilizations>",
                         "Earn [+10]% of killed [Military] unit's [Cost] as [Culture]",
-                        "[+2 Culture, +2 Faith] from all [Cemetery] buildings"
+                        "May buy [Corvun Sanctuary] buildings for [100] [Faith] [in cities following this religion]",
+                "[+2 Culture, +2 Faith] from all [Cemetery] buildings"
                 ]
         },
         {
@@ -70,7 +71,8 @@
             "uniques": [
                 "Only available <for [Skorpius] Civilizations>",
                 "[+10] Gold and [+10] Faith for each city following this religion",
-                "Gain [Faith] when a city is conquered"
+                "Gain [Faith] when a city is conquered",
+                "May buy [Skorpius Temple] buildings for [150] [Faith] [in cities following this religion]"
             ]
         },
         {
@@ -149,7 +151,8 @@
                         "[+20]% [Food] [in this city]",
                         "[+2 Faith, +2 Culture] from [Pasture] tiles [in this city]",
                         "[+2 Faith, +2 Culture] from [Terrace farm] tiles [in this city]",
-                        "[+2 Faith, +2 Culture] from [Farm] tiles [in this city]"
+                        "[+2 Faith, +2 Culture] from [Farm] tiles [in this city]",
+                "May buy [Aquilan Altar] buildings for [75] [Faith] [in cities following this religion]"
                 ]
         },
         {
