@@ -158,7 +158,8 @@
                 "uniques": [
                         "Only available <for [Aquila] Civilizations>",
                         "[+2 Faith, +2 Culture] from every specialist [in this city]",
-                        "[+2 Happiness] from all [Aqueduct] buildings"
+                        "[+2 Happiness] from all [Aqueduct] buildings",
+                        "[+1 Happiness] from all [Faith] buildings"
                 ]
         },
         {
