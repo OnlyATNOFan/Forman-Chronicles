@@ -165,6 +165,8 @@
                 "type": "Enhancer",
                 "uniques": [
                         "Only available <for [Aquila] Civilizations>",
+                        "[+1] Movement <for [Civilian] units>",
+                        "[+50]% Spread Religion Strength"
                 ]
         },
 ]
