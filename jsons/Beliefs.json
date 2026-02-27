@@ -146,6 +146,10 @@
                 "type": "Follower",
                 "uniques": [
                         "Only available <for [Aquila] Civilizations>",
+                        "[+20]% [Food] [in this city]",
+                        "[+2 Faith, +2 Culture] from [Pasture] tiles [in this city]",
+                        "[+2 Faith, +2 Culture] from [Terrace farm] tiles [in this city]",
+                        "[+2 Faith, +2 Culture] from [Farm] tiles [in this city]"
                 ]
         },
         {
@@ -153,6 +157,7 @@
                 "type": "Follower",
                 "uniques": [
                         "Only available <for [Aquila] Civilizations>",
+                        "[+2 Happiness] from all [Aqueduct] buildings"
                 ]
         },
         {
