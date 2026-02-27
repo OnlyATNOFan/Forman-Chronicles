@@ -56,18 +56,22 @@
         },
         //Antares
         {
-        "name": "",
-        "type": "Pantheon",
-        "uniques": [
-                        "Only available <for [Skorpius] Civilizations>",
-        ]
+            "name": "The Scorpiid Star",
+            "type": "Pantheon",
+            "uniques": [
+                "Only available <for [Skorpius] Civilizations>",
+                "[+2 Faith, +2 Production] from [Tundra] tiles",
+                "[+1] Movement for all [Land] units"
+            ]
         },
         {
-                "name": "",
-                "type": "Founder",
-                "uniques": [
-                        "Only available <for [Skorpius] Civilizations>",
-                ]
+            "name": "Imperial Supremacy",
+            "type": "Founder",
+            "uniques": [
+                "Only available <for [Skorpius] Civilizations>",
+                "[+10] Gold and [+10] Faith for each city following this religion",
+                "Gain [Faith] when a city is conquered"
+            ]
         },
         {
                 "name": "Iron Discipline",
@@ -105,11 +109,14 @@
                 ]
         },
         {
-                "name": "",
-                "type": "Enhancer",
-                "uniques": [
-                        "Only available <for [Skorpius] Civilizations>",
-                ]
+            "name": "Unyielding Conquest",
+            "type": "Enhancer",
+            "uniques": [
+                "Only available <for [Skorpius] Civilizations>",
+                "Religious pressure is% stronger",
+                "[+25]% Strength <vs [Civilizations following other religions] units>",
+                "Spread religion to adjacent cities% faster"
+            ]
         },
         //Aquila
         {
