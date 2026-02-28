@@ -50,7 +50,7 @@
         {
                 "name": "Aquilan Altar",
                 "Faith": 1,
-                "culture" 2,
+                "culture": 2,
                 "Food": 1,
                 "uniques": ["Unbuildable", "New [Military] units start with [10] XP [in this city]"]
         },
