@@ -138,6 +138,8 @@
                 "name": "Altair",
                 "isWonder": true,
                 "uniqueTo": "Kingdom of Aquila",
+                "culture": 4,
+                "happiness": 2,
                 "uniques": ["New [Military] units start with [30] XP [in this city]","All newly-trained [Militia] units [in this city] receive the [Defender I] promotion","[+15]% Production when constructing [Military] units [in this city]"],
                 "requiredTech": "Rifling"
         },
