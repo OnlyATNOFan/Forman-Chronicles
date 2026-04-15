@@ -66,8 +66,11 @@
 	{
 		"name": "Sweeper",
 		"uniques": ["[+10]% Strength",
-		"[+50]% Strength <vs cities> <when attacking>",
-		"Only available <if [buildingFilter] is constructed in at least [5] of [in all cities] cities>"],
+		"[+50]% Strength <vs cities> <when attacking>"],
 		"unitTypes": ["Gunpowder"]
+	},
+	{
+		"name": "Civil Guard Ability",
+		"uniques": ["[+33]% Strength <within [2] tiles of a [City center]>"]
 	}
 ]
