@@ -80,7 +80,7 @@
 		"innerColor": [0,71,171],
 		"style": "Southeastern",
 		"uniqueName": "Rich Culture",
-		"uniques": ["Aquila","[+2]% Production [in all cities]","Starts with [Tradition] adopted","Starts whit [Freedom] adopted","[+2]% Production when constructing [All] units [in all cities]"],
+		"uniques": ["Aquila","[+2]% Production [in all cities]","Starts with [Tradition] adopted","Starts whit [Freedom] adopted","[+2]% Production when constructing [All] units [in all cities]","[+15]% [Culture] [in all cities] <in cities with [1] [Specialists]>","All newly-trained [Militia] units [in all cities] receive the [promotion] promotion"],
 		"cities": ["Volucris","Talona","Ascendenz","Roland","New Avia","Altair","Collum","Libertas","Kang","Libertas","Petra","Volans","Tarazed","Aquilis","Calvo","Cauda","Fortituda","Okab","Reda","Suddiaton","Uerso","Smara","Harlucus"]
 	},
 	{
