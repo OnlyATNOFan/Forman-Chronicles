@@ -172,7 +172,9 @@
                         "Only available <for [Aquila] Civilizations>",
                         "[+1] Movement <for [Civilian] units>",
                         "[+3 Gold, +2 Culture, +2 Happiness, +1 Faith, +1 Production, +1 Food,] per [7] population [in all cities]",
-                        "[+50]% Spread Religion Strength"
+                        "[+50]% Spread Religion Strength",
+                        "[+1 Culture, +1 Happiness] from all [Faith] buildings",
+                        "[+1 Culture, +1 Happiness] from all [Culture] buildings"
                 ]
         },
 ]
