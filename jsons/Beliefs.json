@@ -5,8 +5,8 @@
         "type": "Pantheon",
         "uniques": [
                         "Only available <for [Corvus] Civilizations>",
-                        "[+1 Food, +2 Happiness, +4 Faith, +8 Culture] per [10] population [in all cities]",
-                        "[+2 Food, +3 Happiness, +6 Faith, +10 Culture] per [8] population [in capital]"
+                        "[+1 Food, +2 Happiness, +4 Faith, +8 Culture, +1 Science] per [10] population [in all cities]",
+                        "[+2 Food, +3 Happiness, +6 Faith, +10 Culture, +1 Science] per [8] population [in capital]"
         ]
         },
         {
@@ -171,7 +171,7 @@
                 "uniques": [
                         "Only available <for [Aquila] Civilizations>",
                         "[+1] Movement <for [Civilian] units>",
-                        "[+3 Gold, +2 Culture, +2 Happiness, +1 Faith, +1 Production, +1 Food,] per [7] population [in all cities]",
+                        "[+3 Gold, +2 Culture, +2 Happiness, +1 Faith, +1 Production, +1 Food, +1 Science] per [7] population [in all cities]",
                         "[+50]% Spread Religion Strength",
                         "[+1 Culture, +1 Happiness] from all [Faith] buildings",
                         "[+1 Culture, +1 Happiness] from all [Culture] buildings"
