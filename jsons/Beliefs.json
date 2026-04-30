@@ -115,7 +115,7 @@
             "type": "Enhancer",
             "uniques": [
                 "Only available <for [Skorpius] Civilizations>",
-                "Religious pressure is% stronger",
+                "Religious pressure is [+200]% stronger",
                 "[+25]% Strength <vs [Civilizations following other religions] units>",
                 "Spread religion to adjacent cities% faster"
             ]
