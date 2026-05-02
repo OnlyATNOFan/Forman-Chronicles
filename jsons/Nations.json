@@ -3,7 +3,7 @@
 	{
 		"name": "Corvus Confederation",
 		"leaderName": "King Henry Khorin",
-		"adjective": ["Corvin"],
+		"adjective": ["Corvun"],
 		"preferredVictoryType": "Domination",
 		"favoredReligion": "Corvus Cult",
 		"startIntroPart1": "I am King Henry Khorin, sovereign of the Corvus Confederation. Our land has endured loss, hunger, and humiliation, yet we still stand. Are you an ally... or an obstacle that will fall before our resolve?",
@@ -23,7 +23,7 @@
 	{
 		"name": "Empire of Cetus",
 		"leaderName": "Divine God Emperor Frederick Scapha",
-		"adjective": ["Cetan"],
+		"adjective": ["Cetan","Seat","Cete"],
 		"preferredVictoryType": "Domination",
 		"favoredReligion": "Cetus Cult",
 		"startIntroPart1": "",
@@ -43,7 +43,7 @@
 	{
 		"name": "Antares Imperium",
 		"leaderName": "Imperator Kalvin Tau",
-		"adjective": ["Anterian"],
+		"adjective": ["Antarean","Ant","Skorpian"],
 		"preferredVictoryType": "Domination",
 		"favoredReligion": "Skorpius Cult",
 		"startIntroPart1": "From the volcanic lands of Skorpius, the Antares Imperium rises not as a conqueror, but as the architect of a final order. Under the Tau lineage, the nation has transformed from a fractured kingdom into an unstoppable industrial power, tempered by the fires of the Unification Wars and the ambition to unite the continent of Centaura. Kalvin Tau, the visionary monarch, established an absolute truth: true peace can only exist under one banner. For Antares, war is not an end in itself, but the necessary means to eradicate the chaos of sovereign nations and establish a global harmony forged in steel and discipline. With the formidable machinery of the Euskor Conglomerate and the fanatical loyalty of its Shokk Divisions, the Empire advances. Will you fulfill Kalvin's prophecy and bring eternal peace to the world, or will your empire sink beneath the weight of its own ambitions into the mire of history?",
@@ -106,7 +106,7 @@
 	{
 		"name": "Grusa Kingdom",
 		"leaderName": "King Valentín Flamenco",
-		"adjective": ["Grusan"],
+		"adjective": ["Grusan","Joto"],
 		"preferredVictoryType": "Domination",
 		"favoredReligion": "Grus Cult",
 		"startIntroPart1": "",
@@ -126,7 +126,7 @@
 	{
 		"name": "United Columban Territories",
 		"leaderName": "Chancellor Oscar Massey",
-		"adjective": ["Columban"],
+		"adjective": ["Columban","Comb"],
 		"preferredVictoryType": "Diplomatic",
 		"favoredReligion": "Columba Cult",
 		"startIntroPart1": "",
@@ -162,6 +162,46 @@
 		"uniqueName": "Velikiy Sever",
 		"uniques": ["[+2]% Production [in all cities]","Starts with [Liberty] adopted","[+2]% Production when constructing [All] units [in all cities]"],
 		"cities": ["Mundare","Phact","Falkirk","Maculo","Kald","Grasmaer","Anaiva","Fort Hall","Aryne","Salow","Verran","Ilvacaster","Aramor","Leucon","Ruphis","Chalcu","Bulmaer","Tunsead","Torrin","Sarne","Tze","Magna","Tirton","Novurna","Portcal","Malherb","Wellsi","Herns","Verna","Provale","Fort Garen","Mamond","Trocz","Coren","Sojourn","Mornoi","Darview","Fren","Junon","Wenz","Alnwc","Falhoit","Moren","Rubes","Elkurud"]
+	},
+	{
+		"name": "Tucani Empire",
+		"leaderName": "???",
+		"adjective": ["Tucanese","Tucani","Joto"],
+		"preferredVictoryType": "Domination",
+		"favoredReligion": "Arborism",
+		"startIntroPart1": "",
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"neutralHello": "",
+		"hateHello": "",
+		"tradeRequest": "Khotite provesti peregovory?",
+		"outerColor": [255,255,255],
+		"innerColor": [0,0,0],
+		"style": "Northern",
+		"uniqueName": "Velikiy Sever",
+		"uniques": ["[+2]% Production [in all cities]","Starts with [Liberty] adopted","[+2]% Production when constructing [All] units [in all cities]"],
+		"cities": ["Volany Vetersk"]
+	},
+	{
+		"name": "Kingdom of Centauri",
+		"leaderName": "",
+		"adjective": ["Centaurian"],
+		"preferredVictoryType": "Domination",
+		"favoredReligion": "Arborism",
+		"startIntroPart1": "",
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"neutralHello": "",
+		"hateHello": "",
+		"tradeRequest": "Khotite provesti peregovory?",
+		"outerColor": [255,255,255],
+		"innerColor": [0,0,0],
+		"style": "Northern",
+		"uniqueName": "Velikiy Sever",
+		"uniques": ["[+2]% Production [in all cities]","Starts with [Liberty] adopted","[+2]% Production when constructing [All] units [in all cities]"],
+		"cities": ["Nueva Providencia"]
 	},
 	///Other Nations
 	{
