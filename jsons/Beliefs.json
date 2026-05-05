@@ -162,7 +162,9 @@
                         "Only available <for [Aquila] Civilizations>",
                         "[+2 Faith, +2 Culture] from every specialist [in this city]",
                         "[+2 Happiness] from all [Aqueduct] buildings",
-                        "[+1 Happiness] from all [Faith] buildings"
+                        "[+1 Happiness] from all [Faith] buildings",
+                        "[+1 Culture, +1 Happiness] from all [Faith] buildings",
+                        "[+1 Culture, +1 Happiness] from all [Culture] buildings"
                 ]
         },
         {
@@ -172,9 +174,7 @@
                         "Only available <for [Aquila] Civilizations>",
                         "[+1] Movement <for [Civilian] units>",
                         "[+3 Gold, +2 Culture, +2 Happiness, +1 Faith, +1 Production, +1 Food, +1 Science] per [7] population [in all cities]",
-                        "[+50]% Spread Religion Strength",
-                        "[+1 Culture, +1 Happiness] from all [Faith] buildings",
-                        "[+1 Culture, +1 Happiness] from all [Culture] buildings"
+                        "[+50]% Spread Religion Strength"
                 ]
         },
 ]
