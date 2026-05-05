@@ -76,7 +76,7 @@
 		"neutralHello": "The crown of Aquila greets you as an equal. May the harmony between our nations grow like the trees that protect us.",
 		"hateHello": "Your actions have turned trust to ash. Know that the eagle... does not forget.",
 		"tradeRequest": "Wanna trade?",
-		"outerColor": [255,255,255],
+		"outerColor": [0,6,16],
 		"innerColor": [0,71,171],
 		"style": "Southeastern",
 		"uniqueName": "Rich Culture",
